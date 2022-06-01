@@ -1,0 +1,32 @@
+1.What is python, what are the benefits of using python ?
+2.Datatype in Python ?
+3.Difference's Between (List / Tuple / Dict ) & there Properties ?
+4.In Python what is slicing ?
+5.What is Doc String in Python ?
+6.How can you copy Object in Python  With example ?
+7.What is negative indexing in python With Example ?
+8.How can you convert a number to String ? Example !
+9.Is python case sensitive?
+10.What are functions in Python? Example Syntax ?
+
+11. Write a program to find distinct colours from below array 
+["red","blue","green","blue","yellow","red"] 
+12. Write a program to find the largest number from below array 
+[12, 51, 23, 78, 92, 65] 
+13. Write a program to find total no of vowels from below string 
+"You learn more from failure than from success." 
+14. Write a program to find common characters from below strings. 
+"SMASH", "FLASH" 
+15. Write a program to check whether given string is palindrome or not.
+16. Write a program to count total number of duplicate elements from below array 
+Ex: [22, 15, 63, 45, 15, 81, 22, 12] 
+17. Write a program to find total number of elements that are exactly divisible by 10 from below array 
+Ex: [22, 50, 80, 20, 46, 5]
+
+Suppose we have a list of integers >>> numbers = [1, 2, 3, 4, 5, 6] 
+18.What do we need to do add 5 to each number? 
+19.What if we want to add 5 to only the second to the fifth number? 
+20.What if we want to add 5 to numbers with an even-numbered offsets?
+21.How do we take the sentence
+“Python is a great text processing language” 
+and print one word on each line?
